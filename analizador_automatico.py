@@ -22,6 +22,9 @@ Uso:
   - Doble clic en lanzar.bat                  (recomendado)
   - python analizador_automatico.py           (abre diálogo)
   - python analizador_automatico.py dato.csv  (ruta directa)
+
+By Maurcio Alejandro Diaz Barrera
+https://github.com/ApocalypZmbe
 """
 
 # ═══════════════════════════════════════════════════════════════
