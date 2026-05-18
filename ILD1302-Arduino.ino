@@ -18,6 +18,8 @@
 //    Comandos:  H  A  +N  -N  E  S  ?
 //
 //  TODO ES CONFIGURABLE desde el bloque CONFIGURACION abajo.
+// By Maurcio Alejandro Diaz Barrera
+// https://github.com/ApocalypZmbe
 // ===============================================================
 
 #define ENABLE  8
